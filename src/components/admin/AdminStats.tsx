@@ -5,7 +5,7 @@ const AdminStats = ({ reservations }: { reservations: any[] }) => {
   return (
     <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
       <Stat title="Total Reservations" value={reservations.length} color="indigo" />
-      <Stat title="Active" value={active} color="green" />
+      <Stat title="Active" value={active} color="indigo" />
       <Stat title="Cancelled" value={cancelled} color="red" />
     </div>
   );
