@@ -4,6 +4,9 @@ const Home = () => {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-orange-500 to-red-500">
       <div className="bg-white p-10 rounded-xl shadow-xl text-center max-w-md">
+         <h3 className="text-2xl font-bold mb-4">
+          Turaka Suresh Assessment
+        </h3>
         <h1 className="text-3xl font-bold mb-4">
           🍽️ Welcome to SeatBook
         </h1>
