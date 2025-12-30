@@ -113,7 +113,7 @@ const AdminDashboard = () => {
  
 
   return (
-    <Layout title="Admin Dashboard">
+    <Layout title="Admin Dashboard (Turaka Suresh Assessment)">
      
       {toast && (
         <Toast
