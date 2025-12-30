@@ -88,7 +88,7 @@ const UserDashboard = () => {
   };
 
   return (
-    <Layout title="Dashboard">
+    <Layout title="Dashboard (Turaka Suresh Assessment)">
       {toast && (
         <Toast {...toast} onClose={() => setToast(null)} />
       )}
