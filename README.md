@@ -1,3 +1,6 @@
+Full Stack Developer Assignment – [Turaka Suresh]
+
+
 Restaurant Seat Reservation System
 
 A full-stack restaurant seat booking application with role-based access for Customers and Admins, built using MERN + TypeScript.
